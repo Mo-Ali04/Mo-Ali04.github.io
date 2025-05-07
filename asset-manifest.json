@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-page/static/css/main.32d4e826.css",
+    "main.js": "/react-page/static/js/main.e2d3b2c9.js",
+    "static/media/pexels-karoldach-400678.jpg": "/react-page/static/media/pexels-karoldach-400678.5f26c4dfcb81c9432760.jpg",
+    "index.html": "/react-page/index.html",
+    "main.32d4e826.css.map": "/react-page/static/css/main.32d4e826.css.map",
+    "main.e2d3b2c9.js.map": "/react-page/static/js/main.e2d3b2c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d4e826.css",
+    "static/js/main.e2d3b2c9.js"
+  ]
+}
